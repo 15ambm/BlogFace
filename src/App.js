@@ -3,7 +3,7 @@ const content = [
   'This is a note',
   'Another note',
   'A third note',
-  'A fourth note'
+  'random text'
 ]
 
 const List = (props) => {
